@@ -24,6 +24,8 @@ Plugin 'Shougo/neocomplete.vim.git'
 Plugin 'mustache/vim-mustache-handlebars'
 "handlebars syntax and stuff
 Plugin 'leafgarland/typescript-vim.git'
+"abolish.vim
+Plugin 'tpope/vim-abolish.git'
 call vundle#end()            " required
 filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
